@@ -1,3 +1,5 @@
+> **Archived:** This repository is no longer maintained and is preserved for reference. For context on the Boundless ZK proving protocol pause and transition, see the [Boundless Foundation announcement](https://boundlessfdn.org/blog/zkc-the-ai-access-coin).
+
 # Recursion Example
 
 This example demonstrates recursive zero-knowledge proofs in the RISC Zero zkVM. Each proof in the chain verifies the previous proof, creating a sequence of verified computations.
